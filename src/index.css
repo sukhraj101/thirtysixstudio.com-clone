@@ -1,5 +1,9 @@
 @import "tailwindcss";
 
+body {
+    background-color: #fffafa;
+}
+
 canvas {
     pointer-events: none;
 }
